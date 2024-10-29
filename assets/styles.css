@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  padding-left: 85px;
+  padding-top: 42px;
+  padding-bottom: 24px;
+  width: 70%;
+  grid-template-columns: 60% 20%;
+}
+
+.main-section {
+}
+
+.aside-section {
+  margin-left: 20px;
+}
+
+.article-1 {
+  margin-bottom: 35px;
+}
+
+.name {
+  font-size: 35px;
+  margin-top: 0px;
+  font-family: "Noto Sans";
+}
+
+.title {
+  font-family: Poppins;
+  font-size: 14px;
+  text-decoration: underline;
+  color: rgb(37, 162, 245);
+}
+
+.sub-title {
+  font-size: 16px;
+  font-family: "Noto Sans";
+}
+
+.span-ele {
+  font-weight: lighter;
+  font-style: italic;
+  font-family: "Noto Sans";
+}
+
+.info {
+  font-weight: bold;
+  font-family: "Noto Sans";
+}
+
+.description {
+  font-size: 15px;
+  color: rgb(107, 106, 106);
+  font-family: "Noto Sans";
+}
+
+.date-info {
+  font-size: 13px;
+  color: rgb(107, 106, 106);
+  margin-top: 0px;
+  font-family: "Noto Sans";
+}
