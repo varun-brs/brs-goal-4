@@ -4,7 +4,7 @@
   padding-top: 42px;
   padding-bottom: 24px;
   width: 70%;
-  grid-template-columns: 60% 20%;
+  grid-template-columns: 60% 10%;
 }
 
 .main-section {
@@ -21,11 +21,11 @@
 .name {
   font-size: 35px;
   margin-top: 0px;
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
 }
 
 .title {
-  font-family: Poppins;
+  font-family: "Montserrat";
   font-size: 14px;
   text-decoration: underline;
   color: rgb(37, 162, 245);
@@ -33,29 +33,33 @@
 
 .sub-title {
   font-size: 16px;
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
 }
 
 .span-ele {
   font-weight: lighter;
   font-style: italic;
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
 }
 
 .info {
   font-weight: bold;
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
 }
 
 .description {
   font-size: 15px;
   color: rgb(107, 106, 106);
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
 }
 
 .date-info {
   font-size: 13px;
   color: rgb(107, 106, 106);
   margin-top: 0px;
-  font-family: "Noto Sans";
+  font-family: "Montserrat";
+}
+
+.cell-mr-top {
+  margin-left: 100px;
 }
